@@ -9,7 +9,7 @@ root.resizable(0, 0)
 # title of the window
 root.title("Message Encode and Decode")
 
-# label
+
 
 Label(root, text='ENCODE DECODE', font='arial 20 bold').pack()
 Label(root, text='©JK21', font='arial 20 bold').pack(side=BOTTOM)
